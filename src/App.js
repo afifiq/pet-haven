@@ -1,9 +1,9 @@
-import About from "./About";
-import Cats from "./Cats";
-import Dogs from "./Dogs";
-import Home from "./Home";
-import NavBar from "./NavBar";
-import Register from "./Register.js";
+import About from "./components/About";
+import Cats from "./components/Cats";
+import Dogs from "./components/Dogs";
+import Home from "../src/Home";
+import NavBar from "./components/NavBar";
+import Register from "./components/Register";
 
 import "./styles.css";
 
