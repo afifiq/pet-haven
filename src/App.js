@@ -1,5 +1,5 @@
-import About from ".About";
-import Cats from ".Cats";
+import About from "./About";
+import Cats from "./Cats";
 import Dogs from "./Dogs";
 import Home from "./Home";
 import NavBar from "./NavBar";
