@@ -1,7 +1,7 @@
 import About from "./components/About";
 import Cats from "./components/Cats";
 import Dogs from "./components/Dogs";
-import Home from "../src/Home";
+import Home from "../Home";
 import NavBar from "./components/NavBar";
 import Register from "./components/Register";
 
